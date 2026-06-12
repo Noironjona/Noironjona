@@ -3,7 +3,7 @@
 # Hi there, I'm Noironjona 👋
 ###Student | Web Developer | Software Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F710A8&center=true&vCenter=true&width=435&lines=Building+web+applications;Learning+new+tech+every+day;Passionate+about+clean+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F710A8&center=true&vCenter=true&width=435&lines=Learning+new+tech+every+day)](https://git.io/typing-svg)
 
 </div>
 
